@@ -85,3 +85,6 @@ Finally, rewrite all remainders in reverse order.
 
 Let's convert (22)10 into Binary format,
 Here, base value = 2
+
+ ![image](https://user-images.githubusercontent.com/89007620/150343111-102a88fe-8a42-43a2-bc15-6daa25df1f2a.png)
+
